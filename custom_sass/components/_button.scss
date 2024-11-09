@@ -1,0 +1,44 @@
+// mixin to reuse button styles by using @include inside the class
+@mixin btn($bg-color: gray){
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    padding: $base-padding $base-padding * 2;
+    border: 0;
+    border-radius: $base-border-radius;
+    cursor: pointer;
+    background-color: $bg-color;
+}
+
+.btn {
+    @include btn();
+    &:hover {
+        background-color: $faded;
+    }
+}
+
+@each $key, $val in $colors{
+
+    .btn-#{$key} {
+        @include btn($val);
+        background-color: $val;
+        &:hover {
+            background-color: lighten($val, 10)
+        }
+    }
+    .btn-outlined-#{$key} {
+        @include btn(white);
+        border: $base-border-thickness solid $val;
+        &:hover {
+            background-color: $val;
+        }
+    }
+    .btn-complement-#{$key} {
+        @include btn($val);
+        color: light-comp($val);
+        &:hover {
+            color: $val;
+            background-color: light-comp($val);
+        }
+    }
+}
