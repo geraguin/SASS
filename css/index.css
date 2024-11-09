@@ -8114,6 +8114,113 @@ button:hover {
   background-color: rgb(121, 108.2631578947, 0);
 }
 
+.navbar .container, .navbar-sample .container, .navbar-green .container, .navbar-yellow .container, .navbar-orange .container, .navbar-red .container, .navbar-pink .container, .navbar-purple .container, .navbar-indigo .container, .navbar-blue .container, .navbar-transparent .container, .navbar-faded .container, .navbar-inverse .container, .navbar-gray .container, .navbar-black .container, .navbar-white .container, .navbar-dark .container, .navbar-light .container, .navbar-error .container, .navbar-warning .container, .navbar-info .container, .navbar-success .container, .navbar-secondary .container, .navbar-primary .container, .navbar, .navbar-sample, .navbar-green, .navbar-yellow, .navbar-orange, .navbar-red, .navbar-pink, .navbar-purple, .navbar-indigo, .navbar-blue, .navbar-transparent, .navbar-faded, .navbar-inverse, .navbar-gray, .navbar-black, .navbar-white, .navbar-dark, .navbar-light, .navbar-error, .navbar-warning, .navbar-info, .navbar-success, .navbar-secondary, .navbar-primary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.navbar, .navbar-sample, .navbar-green, .navbar-yellow, .navbar-orange, .navbar-red, .navbar-pink, .navbar-purple, .navbar-indigo, .navbar-blue, .navbar-transparent, .navbar-faded, .navbar-inverse, .navbar-gray, .navbar-black, .navbar-white, .navbar-dark, .navbar-light, .navbar-error, .navbar-warning, .navbar-info, .navbar-success, .navbar-secondary, .navbar-primary {
+  padding: 0.75rem 1.5rem;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar .site-title, .navbar-sample .site-title, .navbar-green .site-title, .navbar-yellow .site-title, .navbar-orange .site-title, .navbar-red .site-title, .navbar-pink .site-title, .navbar-purple .site-title, .navbar-indigo .site-title, .navbar-blue .site-title, .navbar-transparent .site-title, .navbar-faded .site-title, .navbar-inverse .site-title, .navbar-gray .site-title, .navbar-black .site-title, .navbar-white .site-title, .navbar-dark .site-title, .navbar-light .site-title, .navbar-error .site-title, .navbar-warning .site-title, .navbar-info .site-title, .navbar-success .site-title, .navbar-secondary .site-title, .navbar-primary .site-title {
+  font-size: 2rem;
+}
+.navbar-primary {
+  background-color: #0275d8;
+}
+
+.navbar-secondary {
+  background-color: #6c757d;
+}
+
+.navbar-success {
+  background-color: #5cb85c;
+}
+
+.navbar-info {
+  background-color: #5bc0de;
+}
+
+.navbar-warning {
+  background-color: #f0ad4e;
+}
+
+.navbar-error {
+  background-color: #d9534f;
+}
+
+.navbar-light {
+  background-color: #f8f9fa;
+}
+
+.navbar-dark {
+  background-color: #343a40;
+}
+
+.navbar-white {
+  background-color: #fff;
+}
+
+.navbar-black {
+  background-color: #000;
+}
+
+.navbar-gray {
+  background-color: #6c757d;
+}
+
+.navbar-inverse {
+  background-color: #292b2c;
+}
+
+.navbar-faded {
+  background-color: #f7f7f7;
+}
+
+.navbar-transparent {
+  background-color: transparent;
+}
+
+.navbar-blue {
+  background-color: #007bff;
+}
+
+.navbar-indigo {
+  background-color: #6610f2;
+}
+
+.navbar-purple {
+  background-color: #6f42c1;
+}
+
+.navbar-pink {
+  background-color: #e83e8c;
+}
+
+.navbar-red {
+  background-color: #dc3545;
+}
+
+.navbar-orange {
+  background-color: #fd7e14;
+}
+
+.navbar-yellow {
+  background-color: #ffc107;
+}
+
+.navbar-green {
+  background-color: #28a745;
+}
+
+.navbar-sample {
+  background-color: #000213;
+}
+
 .p-0 {
   p: 0;
 }

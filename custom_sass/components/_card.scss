@@ -6,7 +6,7 @@
     display: block;
     padding: $base-padding;
     border: $base-border-thickness solid $faded;
-    box-shadow: $base-shadow;
+    box-shadow: $base-box-shadow;
     border-radius: math.div($base-border-radius, 4);
     .card-title {
         font-size: $font-size-md;
