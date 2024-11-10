@@ -45,7 +45,7 @@ button:hover {
 
 .error {
   color: #d9534f;
-  border-color: #6c757d;
+  border-color: #4be9aa;
   border-style: solid;
   margin: 0.75rem;
   padding: 0.75rem;
@@ -54,8 +54,8 @@ button:hover {
 }
 
 .notification {
-  color: #6c757d;
-  border-color: #6c757d;
+  color: #4be9aa;
+  border-color: #4be9aa;
   border-style: solid;
   margin: 0.75rem;
   padding: 0.75rem;
@@ -912,307 +912,307 @@ button:hover {
 }
 
 .bg-secondary {
-  background-color: #6c757d;
+  background-color: #4be9aa;
 }
 
 .text-secondary {
-  color: #6c757d;
+  color: #4be9aa;
 }
 
 .text-hover-secondary:hover {
-  color: #6c757d;
+  color: #4be9aa;
 }
 
 .border-secondary {
-  border-color: #6c757d;
+  border-color: #4be9aa;
 }
 
 .bg-secondary-light-1 {
-  background-color: rgb(234, 235.8, 237.5);
+  background-color: rgb(230.7, 247.4, 242);
 }
 
 .text-secondary-light-1 {
-  color: rgb(240.3, 241.2, 242);
+  color: rgb(237, 252.8, 246.5);
 }
 
 .text-hover-secondary-light-1:hover {
-  color: rgb(240.3, 241.2, 242);
+  color: rgb(237, 252.8, 246.5);
 }
 
 .border-secondary-light-1 {
-  border-color: rgb(240.3, 241.2, 242);
+  border-color: rgb(237, 252.8, 246.5);
 }
 
 .bg-secondary-light-2 {
-  background-color: rgb(220, 222.6, 225);
+  background-color: rgb(213.4, 245.8, 234);
 }
 
 .text-secondary-light-2 {
-  color: rgb(225.6, 227.4, 229);
+  color: rgb(219, 250.6, 238);
 }
 
 .text-hover-secondary-light-2:hover {
-  color: rgb(225.6, 227.4, 229);
+  color: rgb(219, 250.6, 238);
 }
 
 .border-secondary-light-2 {
-  border-color: rgb(225.6, 227.4, 229);
+  border-color: rgb(219, 250.6, 238);
 }
 
 .bg-secondary-light-3 {
-  background-color: rgb(206, 209.4, 212.5);
+  background-color: rgb(196.1, 244.2, 226);
 }
 
 .text-secondary-light-3 {
-  color: rgb(210.9, 213.6, 216);
+  color: rgb(201, 248.4, 229.5);
 }
 
 .text-hover-secondary-light-3:hover {
-  color: rgb(210.9, 213.6, 216);
+  color: rgb(201, 248.4, 229.5);
 }
 
 .border-secondary-light-3 {
-  border-color: rgb(210.9, 213.6, 216);
+  border-color: rgb(201, 248.4, 229.5);
 }
 
 .bg-secondary-light-4 {
-  background-color: rgb(192, 196.2, 200);
+  background-color: rgb(178.8, 242.6, 218);
 }
 
 .text-secondary-light-4 {
-  color: rgb(196.2, 199.8, 203);
+  color: rgb(183, 246.2, 221);
 }
 
 .text-hover-secondary-light-4:hover {
-  color: rgb(196.2, 199.8, 203);
+  color: rgb(183, 246.2, 221);
 }
 
 .border-secondary-light-4 {
-  border-color: rgb(196.2, 199.8, 203);
+  border-color: rgb(183, 246.2, 221);
 }
 
 .bg-secondary-light-5 {
-  background-color: rgb(178, 183, 187.5);
+  background-color: rgb(161.5, 241, 210);
 }
 
 .text-secondary-light-5 {
-  color: rgb(181.5, 186, 190);
+  color: rgb(165, 244, 212.5);
 }
 
 .text-hover-secondary-light-5:hover {
-  color: rgb(181.5, 186, 190);
+  color: rgb(165, 244, 212.5);
 }
 
 .border-secondary-light-5 {
-  border-color: rgb(181.5, 186, 190);
+  border-color: rgb(165, 244, 212.5);
 }
 
 .bg-secondary-light-6 {
-  background-color: rgb(164, 169.8, 175);
+  background-color: rgb(144.2, 239.4, 202);
 }
 
 .text-secondary-light-6 {
-  color: rgb(166.8, 172.2, 177);
+  color: rgb(147, 241.8, 204);
 }
 
 .text-hover-secondary-light-6:hover {
-  color: rgb(166.8, 172.2, 177);
+  color: rgb(147, 241.8, 204);
 }
 
 .border-secondary-light-6 {
-  border-color: rgb(166.8, 172.2, 177);
+  border-color: rgb(147, 241.8, 204);
 }
 
 .bg-secondary-light-7 {
-  background-color: rgb(150, 156.6, 162.5);
+  background-color: rgb(126.9, 237.8, 194);
 }
 
 .text-secondary-light-7 {
-  color: rgb(152.1, 158.4, 164);
+  color: rgb(129, 239.6, 195.5);
 }
 
 .text-hover-secondary-light-7:hover {
-  color: rgb(152.1, 158.4, 164);
+  color: rgb(129, 239.6, 195.5);
 }
 
 .border-secondary-light-7 {
-  border-color: rgb(152.1, 158.4, 164);
+  border-color: rgb(129, 239.6, 195.5);
 }
 
 .bg-secondary-light-8 {
-  background-color: rgb(136, 143.4, 150);
+  background-color: rgb(109.6, 236.2, 186);
 }
 
 .text-secondary-light-8 {
-  color: rgb(137.4, 144.6, 151);
+  color: rgb(111, 237.4, 187);
 }
 
 .text-hover-secondary-light-8:hover {
-  color: rgb(137.4, 144.6, 151);
+  color: rgb(111, 237.4, 187);
 }
 
 .border-secondary-light-8 {
-  border-color: rgb(137.4, 144.6, 151);
+  border-color: rgb(111, 237.4, 187);
 }
 
 .bg-secondary-light-9 {
-  background-color: rgb(122, 130.2, 137.5);
+  background-color: rgb(92.3, 234.6, 178);
 }
 
 .text-secondary-light-9 {
-  color: rgb(122.7, 130.8, 138);
+  color: rgb(93, 235.2, 178.5);
 }
 
 .text-hover-secondary-light-9:hover {
-  color: rgb(122.7, 130.8, 138);
+  color: rgb(93, 235.2, 178.5);
 }
 
 .border-secondary-light-9 {
-  border-color: rgb(122.7, 130.8, 138);
+  border-color: rgb(93, 235.2, 178.5);
 }
 
 .bg-secondary-dark-1 {
-  background-color: rgb(57.6, 63.9, 70.1);
+  background-color: rgb(54.3, 75.5, 74.6);
 }
 
 .text-secondary-dark-1 {
-  color: rgb(10.8, 11.7, 12.5);
+  color: rgb(7.5, 23.3, 17);
 }
 
 .text-hover-secondary-dark-1:hover {
-  color: rgb(10.8, 11.7, 12.5);
+  color: rgb(7.5, 23.3, 17);
 }
 
 .border-secondary-dark-1 {
-  border-color: rgb(10.8, 11.7, 12.5);
+  border-color: rgb(7.5, 23.3, 17);
 }
 
 .bg-secondary-dark-2 {
-  background-color: rgb(63.2, 69.8, 76.2);
+  background-color: rgb(56.6, 93, 85.2);
 }
 
 .text-secondary-dark-2 {
-  color: rgb(21.6, 23.4, 25);
+  color: rgb(15, 46.6, 34);
 }
 
 .text-hover-secondary-dark-2:hover {
-  color: rgb(21.6, 23.4, 25);
+  color: rgb(15, 46.6, 34);
 }
 
 .border-secondary-dark-2 {
-  border-color: rgb(21.6, 23.4, 25);
+  border-color: rgb(15, 46.6, 34);
 }
 
 .bg-secondary-dark-3 {
-  background-color: rgb(68.8, 75.7, 82.3);
+  background-color: rgb(58.9, 110.5, 95.8);
 }
 
 .text-secondary-dark-3 {
-  color: rgb(32.4, 35.1, 37.5);
+  color: rgb(22.5, 69.9, 51);
 }
 
 .text-hover-secondary-dark-3:hover {
-  color: rgb(32.4, 35.1, 37.5);
+  color: rgb(22.5, 69.9, 51);
 }
 
 .border-secondary-dark-3 {
-  border-color: rgb(32.4, 35.1, 37.5);
+  border-color: rgb(22.5, 69.9, 51);
 }
 
 .bg-secondary-dark-4 {
-  background-color: rgb(74.4, 81.6, 88.4);
+  background-color: rgb(61.2, 128, 106.4);
 }
 
 .text-secondary-dark-4 {
-  color: rgb(43.2, 46.8, 50);
+  color: rgb(30, 93.2, 68);
 }
 
 .text-hover-secondary-dark-4:hover {
-  color: rgb(43.2, 46.8, 50);
+  color: rgb(30, 93.2, 68);
 }
 
 .border-secondary-dark-4 {
-  border-color: rgb(43.2, 46.8, 50);
+  border-color: rgb(30, 93.2, 68);
 }
 
 .bg-secondary-dark-5 {
-  background-color: rgb(80, 87.5, 94.5);
+  background-color: rgb(63.5, 145.5, 117);
 }
 
 .text-secondary-dark-5 {
-  color: rgb(54, 58.5, 62.5);
+  color: rgb(37.5, 116.5, 85);
 }
 
 .text-hover-secondary-dark-5:hover {
-  color: rgb(54, 58.5, 62.5);
+  color: rgb(37.5, 116.5, 85);
 }
 
 .border-secondary-dark-5 {
-  border-color: rgb(54, 58.5, 62.5);
+  border-color: rgb(37.5, 116.5, 85);
 }
 
 .bg-secondary-dark-6 {
-  background-color: rgb(85.6, 93.4, 100.6);
+  background-color: rgb(65.8, 163, 127.6);
 }
 
 .text-secondary-dark-6 {
-  color: rgb(64.8, 70.2, 75);
+  color: rgb(45, 139.8, 102);
 }
 
 .text-hover-secondary-dark-6:hover {
-  color: rgb(64.8, 70.2, 75);
+  color: rgb(45, 139.8, 102);
 }
 
 .border-secondary-dark-6 {
-  border-color: rgb(64.8, 70.2, 75);
+  border-color: rgb(45, 139.8, 102);
 }
 
 .bg-secondary-dark-7 {
-  background-color: rgb(91.2, 99.3, 106.7);
+  background-color: rgb(68.1, 180.5, 138.2);
 }
 
 .text-secondary-dark-7 {
-  color: rgb(75.6, 81.9, 87.5);
+  color: rgb(52.5, 163.1, 119);
 }
 
 .text-hover-secondary-dark-7:hover {
-  color: rgb(75.6, 81.9, 87.5);
+  color: rgb(52.5, 163.1, 119);
 }
 
 .border-secondary-dark-7 {
-  border-color: rgb(75.6, 81.9, 87.5);
+  border-color: rgb(52.5, 163.1, 119);
 }
 
 .bg-secondary-dark-8 {
-  background-color: rgb(96.8, 105.2, 112.8);
+  background-color: rgb(70.4, 198, 148.8);
 }
 
 .text-secondary-dark-8 {
-  color: rgb(86.4, 93.6, 100);
+  color: rgb(60, 186.4, 136);
 }
 
 .text-hover-secondary-dark-8:hover {
-  color: rgb(86.4, 93.6, 100);
+  color: rgb(60, 186.4, 136);
 }
 
 .border-secondary-dark-8 {
-  border-color: rgb(86.4, 93.6, 100);
+  border-color: rgb(60, 186.4, 136);
 }
 
 .bg-secondary-dark-9 {
-  background-color: rgb(102.4, 111.1, 118.9);
+  background-color: rgb(72.7, 215.5, 159.4);
 }
 
 .text-secondary-dark-9 {
-  color: rgb(97.2, 105.3, 112.5);
+  color: rgb(67.5, 209.7, 153);
 }
 
 .text-hover-secondary-dark-9:hover {
-  color: rgb(97.2, 105.3, 112.5);
+  color: rgb(67.5, 209.7, 153);
 }
 
 .border-secondary-dark-9 {
-  border-color: rgb(97.2, 105.3, 112.5);
+  border-color: rgb(67.5, 209.7, 153);
 }
 
 .bg-success {
@@ -7110,11 +7110,11 @@ button:hover {
   border: 0;
   border-radius: 20px;
   cursor: pointer;
-  background-color: #6c757d;
-  background-color: #6c757d;
+  background-color: #4be9aa;
+  background-color: #4be9aa;
 }
 .btn-secondary:hover {
-  background-color: rgb(133.7553648069, 142.4849785408, 150.2446351931);
+  background-color: rgb(120.4455445545, 238.5544554455, 191.4603960396);
 }
 
 .btn-outlined-secondary {
@@ -7126,10 +7126,10 @@ button:hover {
   border-radius: 20px;
   cursor: pointer;
   background-color: white;
-  border: 1px solid #6c757d;
+  border: 1px solid #4be9aa;
 }
 .btn-outlined-secondary:hover {
-  background-color: #6c757d;
+  background-color: #4be9aa;
 }
 
 .btn-complement-secondary {
@@ -7140,12 +7140,12 @@ button:hover {
   border: 0;
   border-radius: 20px;
   cursor: pointer;
-  background-color: #6c757d;
-  color: rgb(173.8841201717, 167.1244635193, 161.1158798283);
+  background-color: #4be9aa;
+  color: rgb(244.1089108911, 165.8910891089, 197.0792079208);
 }
 .btn-complement-secondary:hover {
-  color: #6c757d;
-  background-color: rgb(173.8841201717, 167.1244635193, 161.1158798283);
+  color: #4be9aa;
+  background-color: rgb(244.1089108911, 165.8910891089, 197.0792079208);
 }
 
 .btn-success {
@@ -8134,7 +8134,7 @@ button:hover {
 }
 
 .navbar-secondary {
-  background-color: #6c757d;
+  background-color: #4be9aa;
 }
 
 .navbar-success {
@@ -8222,283 +8222,283 @@ button:hover {
 }
 
 .p-0 {
-  p: 0;
+  padding: 0;
 }
 
 .p-1 {
-  p: 0.75rem;
+  padding: 0.75rem;
 }
 
 .p-2 {
-  p: 1.5rem;
+  padding: 1.5rem;
 }
 
 .p-3 {
-  p: 2.25rem;
+  padding: 2.25rem;
 }
 
 .p-4 {
-  p: 3rem;
+  padding: 3rem;
 }
 
 .p-5 {
-  p: 3.75rem;
+  padding: 3.75rem;
 }
 
 .pl-0 {
-  pl: 0;
+  padding-left: 0;
 }
 
 .pl-1 {
-  pl: 0.75rem;
+  padding-left: 0.75rem;
 }
 
 .pl-2 {
-  pl: 1.5rem;
+  padding-left: 1.5rem;
 }
 
 .pl-3 {
-  pl: 2.25rem;
+  padding-left: 2.25rem;
 }
 
 .pl-4 {
-  pl: 3rem;
+  padding-left: 3rem;
 }
 
 .pl-5 {
-  pl: 3.75rem;
+  padding-left: 3.75rem;
 }
 
 .pr-0 {
-  pr: 0;
+  padding-right: 0;
 }
 
 .pr-1 {
-  pr: 0.75rem;
+  padding-right: 0.75rem;
 }
 
 .pr-2 {
-  pr: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 .pr-3 {
-  pr: 2.25rem;
+  padding-right: 2.25rem;
 }
 
 .pr-4 {
-  pr: 3rem;
+  padding-right: 3rem;
 }
 
 .pr-5 {
-  pr: 3.75rem;
+  padding-right: 3.75rem;
 }
 
 .pt-0 {
-  pt: 0;
+  padding-top: 0;
 }
 
 .pt-1 {
-  pt: 0.75rem;
+  padding-top: 0.75rem;
 }
 
 .pt-2 {
-  pt: 1.5rem;
+  padding-top: 1.5rem;
 }
 
 .pt-3 {
-  pt: 2.25rem;
+  padding-top: 2.25rem;
 }
 
 .pt-4 {
-  pt: 3rem;
+  padding-top: 3rem;
 }
 
 .pt-5 {
-  pt: 3.75rem;
+  padding-top: 3.75rem;
 }
 
 .pb-0 {
-  pb: 0;
+  padding-bottom: 0;
 }
 
 .pb-1 {
-  pb: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 
 .pb-2 {
-  pb: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .pb-3 {
-  pb: 2.25rem;
+  padding-bottom: 2.25rem;
 }
 
 .pb-4 {
-  pb: 3rem;
+  padding-bottom: 3rem;
 }
 
 .pb-5 {
-  pb: 3.75rem;
+  padding-bottom: 3.75rem;
 }
 
 .m-0 {
-  m: 0;
+  margin: 0;
 }
 
 .m-1 {
-  m: 0.75rem;
+  margin: 0.75rem;
 }
 
 .m-2 {
-  m: 1.5rem;
+  margin: 1.5rem;
 }
 
 .m-3 {
-  m: 2.25rem;
+  margin: 2.25rem;
 }
 
 .m-4 {
-  m: 3rem;
+  margin: 3rem;
 }
 
 .m-5 {
-  m: 3.75rem;
+  margin: 3.75rem;
 }
 
 .ml-0 {
-  ml: 0;
+  margin-left: 0;
 }
 
 .ml-1 {
-  ml: 0.75rem;
+  margin-left: 0.75rem;
 }
 
 .ml-2 {
-  ml: 1.5rem;
+  margin-left: 1.5rem;
 }
 
 .ml-3 {
-  ml: 2.25rem;
+  margin-left: 2.25rem;
 }
 
 .ml-4 {
-  ml: 3rem;
+  margin-left: 3rem;
 }
 
 .ml-5 {
-  ml: 3.75rem;
+  margin-left: 3.75rem;
 }
 
 .mr-0 {
-  mr: 0;
+  margin-right: 0;
 }
 
 .mr-1 {
-  mr: 0.75rem;
+  margin-right: 0.75rem;
 }
 
 .mr-2 {
-  mr: 1.5rem;
+  margin-right: 1.5rem;
 }
 
 .mr-3 {
-  mr: 2.25rem;
+  margin-right: 2.25rem;
 }
 
 .mr-4 {
-  mr: 3rem;
+  margin-right: 3rem;
 }
 
 .mr-5 {
-  mr: 3.75rem;
+  margin-right: 3.75rem;
 }
 
 .mt-0 {
-  mt: 0;
+  margin-top: 0;
 }
 
 .mt-1 {
-  mt: 0.75rem;
+  margin-top: 0.75rem;
 }
 
 .mt-2 {
-  mt: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 .mt-3 {
-  mt: 2.25rem;
+  margin-top: 2.25rem;
 }
 
 .mt-4 {
-  mt: 3rem;
+  margin-top: 3rem;
 }
 
 .mt-5 {
-  mt: 3.75rem;
+  margin-top: 3.75rem;
 }
 
 .mb-0 {
-  mb: 0;
+  margin-bottom: 0;
 }
 
 .mb-1 {
-  mb: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 
 .mb-2 {
-  mb: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .mb-3 {
-  mb: 2.25rem;
+  margin-bottom: 2.25rem;
 }
 
 .mb-4 {
-  mb: 3rem;
+  margin-bottom: 3rem;
 }
 
 .mb-5 {
-  mb: 3.75rem;
+  margin-bottom: 3.75rem;
 }
 
 .o-10 {
-  o: 0.1;
+  opacity: 0.1;
 }
 
 .o-20 {
-  o: 0.2;
+  opacity: 0.2;
 }
 
 .o-30 {
-  o: 0.3;
+  opacity: 0.3;
 }
 
 .o-40 {
-  o: 0.4;
+  opacity: 0.4;
 }
 
 .o-50 {
-  o: 0.5;
+  opacity: 0.5;
 }
 
 .o-60 {
-  o: 0.6;
+  opacity: 0.6;
 }
 
 .o-70 {
-  o: 0.7;
+  opacity: 0.7;
 }
 
 .o-80 {
-  o: 0.8;
+  opacity: 0.8;
 }
 
 .o-90 {
-  o: 0.9;
+  opacity: 0.9;
 }
 
 .o-100 {
-  o: 1;
+  opacity: 1;
 }
 
 .br {
@@ -8506,31 +8506,31 @@ button:hover {
 }
 
 .br-none {
-  br: 0;
+  border-radius: 0;
 }
 
 .br-xs {
-  br: 2.5px;
+  border-radius: 2.5px;
 }
 
 .br-sm {
-  br: 5px;
+  border-radius: 5px;
 }
 
 .br-md {
-  br: 10px;
+  border-radius: 10px;
 }
 
 .br-lg {
-  br: 40px;
+  border-radius: 40px;
 }
 
 .br-xl {
-  br: 80px;
+  border-radius: 80px;
 }
 
 .br-full {
-  br: 50%;
+  border-radius: 50%;
 }
 
 .display-n {
@@ -8677,26 +8677,26 @@ button:hover {
   font-style: oblique;
 }
 
-.font-size-xs {
+.font-xs {
   font-size: 0.5rem;
 }
 
-.font-size-sm {
+.font-sm {
   font-size: 0.75rem;
 }
 
-.font-size-md {
+.font-md {
   font-size: 1.5rem;
 }
 
-.font-size-lg {
+.font-lg {
   font-size: 2rem;
 }
 
-.font-size-xl {
+.font-xl {
   font-size: 3rem;
 }
 
-.font-size-xxl {
+.font-xxl {
   font-size: 5rem;
 }
