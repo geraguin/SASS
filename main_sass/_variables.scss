@@ -1,17 +1,17 @@
 // theme colors
-$primary: #0275d8;
-$secondary: #4be9aa;
-$success: #5cb85c;
-$info: #5bc0de;
-$warning: #f0ad4e;
-$error: #d9534f;
-$light: #f8f9fa;
-$dark: #343a40;
-$white: #fff;
-$black: #000;
-$inverse: #292b2c;
-$faded: #f7f7f7;
-$transparent: transparent;
+$primary: #0275d8 !default;
+$secondary: #4be9aa !default;
+$success: #5cb85c !default;
+$info: #5bc0de !default;
+$warning: #f0ad4e !default;
+$error: #d9534f !default;
+$light: #f8f9fa !default;
+$dark: #343a40 !default;
+$white: #fff !default;
+$black: #000 !default;
+$inverse: #292b2c !default;
+$faded: #f7f7f7 !default;
+$transparent: transparent !default;
 
 //colors
 $colors: (
@@ -46,22 +46,22 @@ $colors: (
 // @debug map-merge($colors, ("titanium" : #d1d1d1));
 
 //spacing
-$base-padding: 0.75rem;
-$base-margin: 0.75rem;
+$base-padding: 0.75rem !default;
+$base-margin: 0.75rem !default;
 
 //borders
-$base-border-thickness: 1px;
-$base-border-radius: 20px;
+$base-border-thickness: 1px !default;
+$base-border-radius: 20px !default;
 
 //box-shadow
-$base-box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+$base-box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1) !default;
 
 //font-size
 $base-font-size: 1rem;
-$font-size-xs: $base-font-size * 0.5;
-$font-size-sm: $base-font-size * 0.75;
-$font-size-md: $base-font-size * 1.5;
-$font-size-lg: $base-font-size * 2;
-$font-size-xl: $base-font-size * 3;
-$font-size-xxl: $base-font-size * 5;
+$font-size-xs: $base-font-size * 0.5 !default;
+$font-size-sm: $base-font-size * 0.75 !default;
+$font-size-md: $base-font-size * 1.5 !default;
+$font-size-lg: $base-font-size * 2 !default;
+$font-size-xl: $base-font-size * 3 !default;
+$font-size-xxl: $base-font-size * 5 !default;
 

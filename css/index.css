@@ -25,7 +25,7 @@ hr {
 }
 
 h1, h2, h3 {
-  color: #0275d8;
+  color: rgb(11, 135, 85);
   margin-bottom: 0.75rem;
 }
 
@@ -165,39 +165,39 @@ button:hover {
   }
 }
 .bg-primary {
-  background-color: #0275d8;
+  background-color: rgb(11, 135, 85);
 }
 
 .text-primary {
-  color: #0275d8;
+  color: rgb(11, 135, 85);
 }
 
 .bg-primary-light-1 {
-  background-color: rgb(223.4, 235.8, 246.6);
+  background-color: rgb(224.3, 237.6, 233.5);
 }
 
 .bg-primary-light-3 {
-  background-color: rgb(174.2, 209.4, 239.8);
+  background-color: rgb(176.9, 214.8, 200.5);
 }
 
 .bg-primary-light-6 {
-  background-color: rgb(100.4, 169.8, 229.6);
+  background-color: rgb(105.8, 180.6, 151);
 }
 
 .bg-primary-light-9 {
-  background-color: rgb(26.6, 130.2, 219.4);
+  background-color: rgb(34.7, 146.4, 101.5);
 }
 
 .bg-primary-dark-3 {
-  background-color: rgb(37, 75.7, 109.6);
+  background-color: rgb(39.7, 81.1, 70.3);
 }
 
 .bg-primary-dark-6 {
-  background-color: rgb(22, 93.4, 155.2);
+  background-color: rgb(27.4, 104.2, 76.6);
 }
 
 .bg-primary-dark-9 {
-  background-color: rgb(7, 111.1, 200.8);
+  background-color: rgb(15.1, 127.3, 82.9);
 }
 
 .bg-secondary {
@@ -397,11 +397,11 @@ button:hover {
   border: 0;
   border-radius: 20px;
   cursor: pointer;
-  background-color: #0275d8;
-  background-color: #0275d8;
+  background-color: rgb(11, 135, 85);
+  background-color: rgb(11, 135, 85);
 }
 .btn-primary:hover {
-  background-color: rgb(16.2110091743, 143.3440366972, 252.7889908257);
+  background-color: rgb(14.8424657534, 182.1575342466, 114.6917808219);
 }
 
 .btn-complement-primary {
@@ -412,12 +412,12 @@ button:hover {
   border: 0;
   border-radius: 20px;
   cursor: pointer;
-  background-color: #0275d8;
-  color: rgb(253.2568807339, 153.0275229358, 66.7431192661);
+  background-color: rgb(11, 135, 85);
+  color: rgb(229.3150684932, 18.6849315068, 103.6164383562);
 }
 .btn-complement-primary:hover {
-  color: #0275d8;
-  background-color: rgb(253.2568807339, 153.0275229358, 66.7431192661);
+  color: rgb(11, 135, 85);
+  background-color: rgb(229.3150684932, 18.6849315068, 103.6164383562);
 }
 
 .btn-secondary {
@@ -632,7 +632,7 @@ button:hover {
   font-size: 2rem;
 }
 .navbar-primary {
-  background-color: #0275d8;
+  background-color: rgb(11, 135, 85);
 }
 
 .p-0 {

@@ -1,0 +1,5 @@
+//declare here the ovverides for the main_sass theme but the main needs to have !default in the variables
+$primary: rgb(11, 135, 85);
+
+//import the main_sass folder and it will automatically import index.scss and all the files in the main_sass folder
+@import "main_sass";
