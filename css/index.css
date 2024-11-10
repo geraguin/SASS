@@ -635,6 +635,40 @@ button:hover {
   background-color: rgb(11, 135, 85);
 }
 
+.badge-primary {
+  border-radius: 80px;
+  background-color: rgb(11, 135, 85);
+  padding: 0.1875rem 0.375rem;
+  font-size: 0.75rem;
+  font-weight: normal;
+}
+
+.badge-outlined-black {
+  border-radius: 80px;
+  background-color: white;
+  padding: 0.1875rem 0.375rem;
+  font-size: 0.75rem;
+  font-weight: normal;
+  border: 1px solid #000;
+}
+
+.badge-outlined-red {
+  border-radius: 80px;
+  background-color: white;
+  padding: 0.1875rem 0.375rem;
+  font-size: 0.75rem;
+  font-weight: normal;
+  border: 1px solid #dc3545;
+}
+
+.badge-orange {
+  border-radius: 80px;
+  background-color: #fd7e14;
+  padding: 0.1875rem 0.375rem;
+  font-size: 0.75rem;
+  font-weight: normal;
+}
+
 .p-0 {
   padding: 0;
 }
