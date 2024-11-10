@@ -1,0 +1,28 @@
+// use the math object and use functions like div to calculate the padding and border thickness
+@use "sass:math";
+
+
+.card {
+    display: block;
+    padding: $base-padding;
+    border: $base-border-thickness solid $faded;
+    box-shadow: $base-box-shadow;
+    border-radius: math.div($base-border-radius, 4);
+    .card-title {
+        font-size: $font-size-md;
+        padding-bottom: $base-padding;
+        font-weight: bold;
+    }
+    .card-body {
+        font-size: $base-font-size;
+
+        a {
+            text-decoration: underline;
+        }
+    }
+}
+
+
+// use debug to check
+@debug "hello";
+@debug math.floor(3.6);

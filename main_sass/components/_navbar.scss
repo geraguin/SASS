@@ -1,0 +1,32 @@
+//we will use this % and class to extend properties to the navbar
+//by using %flex-layout and @extend in the navbar class
+//% is use to hide the class from the css output .flex-layout will not be in the css output
+%flex-layout {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+//navbar styles
+.navbar {
+    @extend %flex-layout;
+    padding: $base-padding $base-padding * 2;
+    box-shadow: $base-box-shadow;
+
+    .site-title{
+        font-size: $font-size-lg;
+    }
+    //add the container class to the navbar and display fles styles
+    .container{
+        @extend %flex-layout;
+    }
+}
+
+@each $key, $val in $colors{
+    .navbar-#{$key} {
+        @extend .navbar;
+        background-color: $val;
+    }
+}

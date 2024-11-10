@@ -1,0 +1,62 @@
+@each $key, $val in $colors {
+    .bg-#{$key} {
+        background-color: $val;
+    }
+    .text-#{$key} {
+        color: $val;
+    }
+    .text-hover-#{$key}{
+        &:hover {
+            color: $val;
+        }
+        // &:last-child {
+            
+        // }
+        // &:nth-child(2) {
+            
+        // }
+    }
+    .border-#{$key} {
+        border-color: $val;
+    }
+    @if($val != black and $val != white) {
+        // light variations
+        @for $i from 1 through 9 {
+            .bg-#{$key}-light-#{$i} {
+                background-color: mix($val, $light, $i * 10%);
+            }
+            .text-#{$key}-light-#{$i} {
+                color: mix($val, $white, $i * 10%);
+            }
+            .text-hover-#{$key}-light-#{$i}{
+                &:hover {
+                    color: mix($val, $white, $i * 10%);
+                }
+            }
+            .border-#{$key}-light-#{$i} {
+                border-color: mix($val, $white, $i * 10%);
+            }
+        }
+
+        // dark variations
+        @for $i from 1 through 9 {
+            .bg-#{$key}-dark-#{$i} {
+                background-color: mix($val, $dark, $i * 10%);
+            }
+            .text-#{$key}-dark-#{$i} {
+                color: mix($val, $black, $i * 10%);
+            }
+            .text-hover-#{$key}-dark-#{$i}{
+                &:hover {
+                    color: mix($val, $black, $i * 10%);
+                }
+            }
+            .border-#{$key}-dark-#{$i} {
+                border-color: mix($val, $black, $i * 10%);
+            }
+        }
+
+    }
+
+}
+

@@ -1,0 +1,67 @@
+// theme colors
+$primary: #0275d8 !default;
+$secondary: #4be9aa !default;
+$success: #5cb85c !default;
+$info: #5bc0de !default;
+$warning: #f0ad4e !default;
+$error: #d9534f !default;
+$light: #f8f9fa !default;
+$dark: #343a40 !default;
+$white: #fff !default;
+$black: #000 !default;
+$inverse: #292b2c !default;
+$faded: #f7f7f7 !default;
+$transparent: transparent !default;
+
+//colors
+$colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "error": $error,
+    "light": $light,
+    "dark": $dark,
+    "white": $white,
+    "black": $black,
+    "gray": #6c757d,
+    "inverse": $inverse,
+    "faded": $faded,
+    "transparent": $transparent,
+    "blue": #007bff,
+    "indigo": #6610f2,
+    "purple": #6f42c1,
+    "pink": #e83e8c,
+    "red": #dc3545,
+    "orange": #fd7e14,
+    "yellow": #ffc107,
+    "green": #28a745,
+    "sample": #000213
+);
+
+// @debug map-get($colors, "indigo");
+// @debug map-has-key($colors, "primary");
+// @debug map-remove($colors, "sample");
+// @debug map-merge($colors, ("titanium" : #d1d1d1));
+
+//spacing
+$base-padding: 0.75rem !default;
+$base-margin: 0.75rem !default;
+
+//borders
+$base-border-thickness: 1px !default;
+$base-border-radius: 20px !default;
+
+//box-shadow
+$base-box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1) !default;
+
+//font-size
+$base-font-size: 1rem;
+$font-size-xs: $base-font-size * 0.5 !default;
+$font-size-sm: $base-font-size * 0.75 !default;
+$font-size-md: $base-font-size * 1.5 !default;
+$font-size-lg: $base-font-size * 2 !default;
+$font-size-xl: $base-font-size * 3 !default;
+$font-size-xxl: $base-font-size * 5 !default;
+
